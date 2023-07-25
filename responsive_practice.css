@@ -391,7 +391,7 @@ body{
 }
 
 .about-text{
-    margin-top: 250px;
+    padding-top: 250px;
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 250px;
@@ -408,7 +408,7 @@ body{
     }
 
     .about-text{
-        margin-top: 200px;
+        padding-top: 250px;
     }
 
 
