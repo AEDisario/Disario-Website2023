@@ -46,7 +46,7 @@ body{
 .picture-box{
     width: calc(0.75 * 65vh);
     height: 65vh;
-    margin-top: 17.5vh;
+    padding-top: 17.5vh;
     margin-left: auto;
     margin-right: auto;
     
@@ -438,7 +438,7 @@ body{
         margin-left: 10%;
         margin-right: 10%;
         height: 60vh;
-        margin-top: 20vh;
+        padding-top: 20vh;
         width: auto;
 
     }
